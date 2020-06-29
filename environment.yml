@@ -1,0 +1,8 @@
+name: /Users/ian/code/personal/doctors-in-kw/env
+channels:
+  - defaults
+dependencies:
+  - python=3.8.3
+  - beautifulsoup4
+prefix: /Users/ian/code/personal/doctors-in-kw/env
+

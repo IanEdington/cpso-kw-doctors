@@ -1,20 +1,22 @@
+from pathlib import Path
+
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-from string import ascii_lowercase
 import re
 import time
 from random import randint
-import csv
 import sys
 import os
 
-url_search = "https://www.cpso.on.ca/Public-Information-Services/Find-a-Doctor?search=general"
-url_paging = "https://www.cpso.on.ca/Public-Register-Info-(1)/Doctor-Search-Results"
+url_search = "https://doctors.cpso.on.ca/?search=general"
+url_paging = "https://doctors.cpso.on.ca/Doctor-Search-Results?type=name&term="
 
-abs_file_path = os.path.abspath(__file__)
-file_dir = os.path.dirname(os.path.abspath(__file__))
-project_dir = os.path.dirname(file_dir)
+abs_file_path = Path(os.path.abspath(__file__))
+project_dir = abs_file_path.parent
+data_dir = project_dir / 'data' / 'kw-docs-raw'
+
+def get_page_file_name(page_num):
+    return data_dir / f'doctors_page_{page_num}.html'
 
 # progess bar
 def progress(count, total, status=''):
@@ -59,8 +61,6 @@ manScript = manScript.replace( "%3a", ":" )
 manScript = manScript.replace( "en-CA", "en-US")
 
 def crawl_cpso( city_code = '', fsa = '', char = '' ):
-    doctors = {}
-
     # get HTML to generate POST data
     with requests.Session() as s:
         r = s.get(url_search)
@@ -93,10 +93,19 @@ def crawl_cpso( city_code = '', fsa = '', char = '' ):
         }
 
         # send POST request
+        current_page = 0
         time.sleep(randint(1,3))
-        r = s.post( url_search, data = payload )
+        s.post( url_search, data = payload )
+        r = s.get(url_paging)
         soup = BeautifulSoup(r.content, 'html.parser')
-        doctors.update( scrape_doctors(soup) )
+        # TODO: save content
+        if r.status_code != 200:
+            print("error with getting page")
+            Path("./error.html").write_bytes(r.content)
+            exit(1)
+
+        get_page_file_name(current_page).write_bytes(r.content)
+        current_page += 1
 
         while True:
             # stop if there's no pages
@@ -105,7 +114,16 @@ def crawl_cpso( city_code = '', fsa = '', char = '' ):
             except:
                 break
 
-            # page through the rest of the group
+            payload_paging = {
+                "__CMSCsrfToken": soup.find("input", id="__CMSCsrfToken")['value'],
+                "__VIEWSTATE": soup.find("input", id="__VIEWSTATE")['value'],
+                "__VIEWSTATEGENERATOR": soup.find("input", id="__VIEWSTATEGENERATOR")['value'],
+                "__EVENTTARGET": "p$lt$ctl04$pageplaceholder$p$lt$ctl03$CPSO_DoctorSearchResults$rptPages$ctl0{:1}$lnbPage",
+                "lng": 'en-CA',
+                "manScript_HiddenField": manScript,
+                "p$lt$ctl04$pageplaceholder$p$lt$ctl03$CPSO_DoctorSearchResults$hdnCurrentPage": 1
+            }
+                # page through the rest of the group
             for i in range(1, n_in_group):
                 payload_paging = {
                     "__CMSCsrfToken": soup.find("input", id="__CMSCsrfToken")['value'],
@@ -122,8 +140,14 @@ def crawl_cpso( city_code = '', fsa = '', char = '' ):
                 r = s.post( url_paging, headers = headers_search.update(headers_paging), data = payload_paging )
                 soup = BeautifulSoup(r.content, 'html.parser')
 
-                #page_num = soup.find('div', class_ = 'doctor-search-count').find('div', class_ = 'text-align--right').text.strip()
-                doctors.update( scrape_doctors(soup) )
+                # TODO: save content
+                if r.status_code != 200:
+                    print("error with getting page")
+                    Path("./error.html").write_bytes(r.content)
+                    exit(1)
+
+                get_page_file_name(current_page).write_bytes(r.content)
+                current_page += 1
 
                 payload_paging['p$lt$ctl04$pageplaceholder$p$lt$ctl03$CPSO_DoctorSearchResults$hdnCurrentPage'] += 1
 
@@ -137,7 +161,15 @@ def crawl_cpso( city_code = '', fsa = '', char = '' ):
             r = s.post( url_paging, data = payload_paging )
             soup = BeautifulSoup(r.content, 'html.parser')
 
-    return doctors
+            if r.status_code != 200:
+                print("error with getting page")
+                Path("./error.html").write_bytes(r.content)
+                exit(1)
+
+            get_page_file_name(current_page).write_bytes(r.content)
+            current_page += 1
+
+    print('completed')
 
 
 def count_doctors( city_code = '', fsa = '', char = '' ):
@@ -178,3 +210,5 @@ def count_doctors( city_code = '', fsa = '', char = '' ):
         soup = BeautifulSoup(r.content, 'html.parser')
         target = soup.find('div', class_ = "doctor-search-count").strong.text
         return int(re.search( "\d+", target ).group())
+
+crawl_cpso("1515")
