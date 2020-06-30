@@ -4,6 +4,7 @@ PROJECT_DIR = Path(__file__).parent
 DATA_DIR = PROJECT_DIR / 'data'
 RAW_DATA_DIR = DATA_DIR / 'kw-docs-raw'
 DOCTORS_OVERVIEW_JSON_FILE = DATA_DIR / 'doctors-overview.json'
+DOCTORS_OVERVIEW_CSV_FILE = DATA_DIR / 'doctors-overview.csv'
 
 
 def get_raw_data_file_path(page_num):

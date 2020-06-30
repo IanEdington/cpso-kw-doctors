@@ -18,10 +18,10 @@ def parse_doctor(doctor_soup):
 
     location_phone_fax = doctor_soup.find('h4', text=re.compile("Location of Practice:")).next_sibling.text
     location = re.split(r"Phone:|Fax:", location_phone_fax)[0].strip()
-    phone_raw = re.search(r'Phone: *([-\d.()]*)', location_phone_fax)
+    phone_raw = re.search(r'Phone: *([-\d .()]*)', location_phone_fax)
     phone = ''
     if (phone_raw is not None):
-        phone = phone_raw.groups()[0]
+        phone = phone_raw.groups()[0].strip()
     else:
         print('no phone found')
 
