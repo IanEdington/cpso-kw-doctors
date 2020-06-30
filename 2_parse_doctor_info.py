@@ -4,7 +4,7 @@ import re
 import htmlmin
 from bs4 import BeautifulSoup
 
-import utils_and_consts as utils
+import utils as utils
 
 
 def parse_doctor(doctor_soup):

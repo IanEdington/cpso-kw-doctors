@@ -1,7 +1,7 @@
 import csv
 import json
 
-import utils_and_consts as utils
+import utils
 
 """
 improvements:

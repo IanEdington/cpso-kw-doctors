@@ -4,5 +4,8 @@ channels:
 dependencies:
   - python=3.8.3
   - beautifulsoup4
+  - requests
+  - pandas
+  - jupyter
 prefix: /Users/ian/code/personal/doctors-in-kw/env
 
