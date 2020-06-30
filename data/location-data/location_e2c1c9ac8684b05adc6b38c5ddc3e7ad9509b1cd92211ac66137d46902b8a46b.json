@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "395",
+               "short_name" : "395",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Greenbrook Drive",
+               "short_name" : "Greenbrook Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Forest Hill",
+               "short_name" : "Forest Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 4K1",
+               "short_name" : "N2M 4K1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "395 Greenbrook Dr, Kitchener, ON N2M 4K1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4261096,
+                  "lng" : -80.51070899999999
+               },
+               "southwest" : {
+                  "lat" : 43.4259227,
+                  "lng" : -80.51095100000001
+               }
+            },
+            "location" : {
+               "lat" : 43.426027,
+               "lng" : -80.5108719
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4273651302915,
+                  "lng" : -80.5094810197085
+               },
+               "southwest" : {
+                  "lat" : 43.42466716970851,
+                  "lng" : -80.51217898029151
+               }
+            }
+         },
+         "place_id" : "ChIJJy58G7D1K4gRbl4t_pd14DI",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

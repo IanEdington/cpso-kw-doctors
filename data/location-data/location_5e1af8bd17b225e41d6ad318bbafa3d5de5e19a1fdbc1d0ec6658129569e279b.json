@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "944",
+               "short_name" : "944",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street West",
+               "short_name" : "King St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "KW Hospital",
+               "short_name" : "KW Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1G4",
+               "short_name" : "N2G 1G4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "944 King St W, Kitchener, ON N2G 1G4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4581431,
+                  "lng" : -80.51348329999999
+               },
+               "southwest" : {
+                  "lat" : 43.4579744,
+                  "lng" : -80.51372429999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4580454,
+               "lng" : -80.51360749999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4594077302915,
+                  "lng" : -80.51225481970847
+               },
+               "southwest" : {
+                  "lat" : 43.4567097697085,
+                  "lng" : -80.51495278029149
+               }
+            }
+         },
+         "place_id" : "ChIJv2lTIWn0K4gRTvAl9RRbwvA",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

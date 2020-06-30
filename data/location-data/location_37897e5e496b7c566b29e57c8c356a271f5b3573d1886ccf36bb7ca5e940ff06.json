@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1245",
+               "short_name" : "1245",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lakeshore Road",
+               "short_name" : "Lakeshore Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Halton",
+               "short_name" : "Regional Municipality of Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L7S 0A2",
+               "short_name" : "L7S 0A2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1245 Lakeshore Rd, Burlington, ON L7S 0A2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3170776,
+               "lng" : -79.80235499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.31842658029149,
+                  "lng" : -79.8010060197085
+               },
+               "southwest" : {
+                  "lat" : 43.31572861970849,
+                  "lng" : -79.8037039802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0wzWdT-eLIgR9JVo235KnCk",
+         "plus_code" : {
+            "compound_code" : "858X+R3 Burlington, ON, Canada",
+            "global_code" : "87M2858X+R3"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "170",
+               "short_name" : "170",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue West",
+               "short_name" : "University Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3E9",
+               "short_name" : "N2L 3E9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4719797,
+               "lng" : -80.53905549999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.47332868029149,
+                  "lng" : -80.53770651970849
+               },
+               "southwest" : {
+                  "lat" : 43.4706307197085,
+                  "lng" : -80.5404044802915
+               }
+            }
+         },
+         "place_id" : "ChIJQdQ9MgH0K4gRIfW8ouHsR0w",
+         "plus_code" : {
+            "compound_code" : "FFC6+Q9 Waterloo, ON, Canada",
+            "global_code" : "86MXFFC6+Q9"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

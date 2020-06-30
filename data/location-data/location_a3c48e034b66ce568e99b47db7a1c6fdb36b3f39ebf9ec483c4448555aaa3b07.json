@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suite 301",
+               "short_name" : "Suite 301",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "450",
+               "short_name" : "450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Frederick Street",
+               "short_name" : "Frederick St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Frederick",
+               "short_name" : "Central Frederick",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 2P5",
+               "short_name" : "N2H 2P5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "450 Frederick St Suite 301, Kitchener, ON N2H 2P5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4587126,
+               "lng" : -80.4728491
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.46006158029149,
+                  "lng" : -80.47150011970851
+               },
+               "southwest" : {
+                  "lat" : 43.4573636197085,
+                  "lng" : -80.47419808029152
+               }
+            }
+         },
+         "place_id" : "ChIJ99cak7z0K4gR0_HdH7nh2RA",
+         "plus_code" : {
+            "compound_code" : "FG5G+FV Kitchener, ON, Canada",
+            "global_code" : "86MXFG5G+FV"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

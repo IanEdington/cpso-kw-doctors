@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#105",
+               "short_name" : "#105",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1939",
+               "short_name" : "1939",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kennedy Road",
+               "short_name" : "Kennedy Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scarborough",
+               "short_name" : "Scarborough",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M1P 2L9",
+               "short_name" : "M1P 2L9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1939 Kennedy Rd #105, Scarborough, ON M1P 2L9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7683741,
+               "lng" : -79.28092239999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76972308029149,
+                  "lng" : -79.27957341970848
+               },
+               "southwest" : {
+                  "lat" : 43.76702511970849,
+                  "lng" : -79.28227138029149
+               }
+            }
+         },
+         "place_id" : "ChIJV29xaEHR1IkRPLdjZdUqK-8",
+         "plus_code" : {
+            "compound_code" : "QP99+8J Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QP99+8J"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

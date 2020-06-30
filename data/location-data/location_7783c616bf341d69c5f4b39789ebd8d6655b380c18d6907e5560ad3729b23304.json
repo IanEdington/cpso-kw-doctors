@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "911",
+               "short_name" : "911",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Queen's Boulevard",
+               "short_name" : "Queen's Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Marys Hospital",
+               "short_name" : "St. Marys Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 1B2",
+               "short_name" : "N2M 1B2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "911 Queen's Blvd, Kitchener, ON N2M 1B2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.43846509999999,
+               "lng" : -80.5011933
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4398140802915,
+                  "lng" : -80.49984431970849
+               },
+               "southwest" : {
+                  "lat" : 43.4371161197085,
+                  "lng" : -80.50254228029151
+               }
+            }
+         },
+         "place_id" : "ChIJ3YwFxlX0K4gROVNQypwn_8Y",
+         "plus_code" : {
+            "compound_code" : "CFQX+9G Kitchener, ON, Canada",
+            "global_code" : "86MXCFQX+9G"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

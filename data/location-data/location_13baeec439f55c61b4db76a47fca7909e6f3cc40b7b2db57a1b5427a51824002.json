@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Boardwalk",
+               "short_name" : "The Boardwalk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Highland West",
+               "short_name" : "Highland West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2N 0B4",
+               "short_name" : "N2N 0B4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110 The Boardwalk, Kitchener, ON N2N 0B4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4350894,
+               "lng" : -80.55880359999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.43643838029149,
+                  "lng" : -80.55745461970848
+               },
+               "southwest" : {
+                  "lat" : 43.4337404197085,
+                  "lng" : -80.5601525802915
+               }
+            }
+         },
+         "place_id" : "ChIJiarvgGH2K4gRFsnAji5ji8s",
+         "plus_code" : {
+            "compound_code" : "CCPR+2F Kitchener, ON, Canada",
+            "global_code" : "86MXCCPR+2F"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

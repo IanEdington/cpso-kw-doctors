@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "875",
+               "short_name" : "875",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highland Road West",
+               "short_name" : "Highland Rd W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Forest Heights",
+               "short_name" : "Forest Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2N 2Y2",
+               "short_name" : "N2N 2Y2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "40-875 Highland Rd W, Kitchener, ON N2N 2Y2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4317233,
+                  "lng" : -80.5237047
+               },
+               "southwest" : {
+                  "lat" : 43.4275313,
+                  "lng" : -80.52863259999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4295865,
+               "lng" : -80.52648099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4317233,
+                  "lng" : -80.5237047
+               },
+               "southwest" : {
+                  "lat" : 43.4275313,
+                  "lng" : -80.52863259999999
+               }
+            }
+         },
+         "place_id" : "EjM0MC04NzUgSGlnaGxhbmQgUmQgVywgS2l0Y2hlbmVyLCBPTiBOMk4gMlkyLCBDYW5hZGEiHhocChYKFAoSCSdLJyTJ9SuIES96zVlL1891EgI0MA",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

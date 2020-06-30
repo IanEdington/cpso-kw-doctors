@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "303",
+               "short_name" : "303",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "310",
+               "short_name" : "310",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street East",
+               "short_name" : "King St E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "City Commercial Core",
+               "short_name" : "City Commercial Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 2V5",
+               "short_name" : "N2H 2V5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "303-310 King St E, Kitchener, ON N2H 2V5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4477605,
+                  "lng" : -80.48329
+               },
+               "southwest" : {
+                  "lat" : 43.4474509,
+                  "lng" : -80.48367089999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4476053,
+               "lng" : -80.4835327
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4489546802915,
+                  "lng" : -80.48213146970849
+               },
+               "southwest" : {
+                  "lat" : 43.4462567197085,
+                  "lng" : -80.4848294302915
+               }
+            }
+         },
+         "place_id" : "EjAzMDMtMzEwIEtpbmcgU3QgRSwgS2l0Y2hlbmVyLCBPTiBOMkggMlY1LCBDYW5hZGEiHxodChYKFAoSCfWOyBbs9CuIER7awvUWWSjJEgMzMDM",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

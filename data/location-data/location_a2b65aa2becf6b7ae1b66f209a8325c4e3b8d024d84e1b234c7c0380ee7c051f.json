@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2268",
+               "short_name" : "2268",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pandosy Street",
+               "short_name" : "Pandosy St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central",
+               "short_name" : "South Central",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kelowna",
+               "short_name" : "Kelowna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Okanagan",
+               "short_name" : "Central Okanagan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V1Y 1T2",
+               "short_name" : "V1Y 1T2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2268 Pandosy St, Kelowna, BC V1Y 1T2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.8735931,
+               "lng" : -119.4938657
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8749420802915,
+                  "lng" : -119.4925167197085
+               },
+               "southwest" : {
+                  "lat" : 49.8722441197085,
+                  "lng" : -119.4952146802915
+               }
+            }
+         },
+         "place_id" : "ChIJFfE6YlKLfVMR5bnoPuVUsb4",
+         "plus_code" : {
+            "compound_code" : "VGF4+CF Kelowna, BC, Canada",
+            "global_code" : "85X2VGF4+CF"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

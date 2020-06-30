@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "George Street North",
+               "short_name" : "George St N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1S 2M8",
+               "short_name" : "N1S 2M8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "40 George St N, Cambridge, ON N1S 2M8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3600885,
+               "lng" : -80.31895
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.36143748029151,
+                  "lng" : -80.31760101970849
+               },
+               "southwest" : {
+                  "lat" : 43.35873951970851,
+                  "lng" : -80.32029898029151
+               }
+            }
+         },
+         "place_id" : "ChIJie6jDLV3LIgRdrD9YGM7nYM",
+         "plus_code" : {
+            "compound_code" : "9M6J+2C Cambridge, ON, Canada",
+            "global_code" : "86MX9M6J+2C"
+         },
+         "types" : [
+            "doctor",
+            "establishment",
+            "health",
+            "physiotherapist",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

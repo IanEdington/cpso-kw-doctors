@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unit 2",
+               "short_name" : "Unit 2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Catharines",
+               "short_name" : "St. Catharines",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Niagara",
+               "short_name" : "Regional Municipality of Niagara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L2R 7G1",
+               "short_name" : "L2R 7G1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "80 King St Unit 2, St. Catharines, ON L2R 7G1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.158062,
+               "lng" : -79.245988
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1594109802915,
+                  "lng" : -79.24463901970849
+               },
+               "southwest" : {
+                  "lat" : 43.1567130197085,
+                  "lng" : -79.24733698029151
+               }
+            }
+         },
+         "place_id" : "ChIJ7UrRxrJR04kRg9eNBPTH-Hw",
+         "plus_code" : {
+            "compound_code" : "5Q53+6J St. Catharines, ON, Canada",
+            "global_code" : "87M25Q53+6J"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

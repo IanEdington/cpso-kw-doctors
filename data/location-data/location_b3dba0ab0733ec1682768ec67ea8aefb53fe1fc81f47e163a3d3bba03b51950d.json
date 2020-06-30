@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3710",
+               "short_name" : "3710",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nafziger Road",
+               "short_name" : "Nafziger Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wellesley",
+               "short_name" : "Wellesley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellesley",
+               "short_name" : "Wellesley",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N0B 2T0",
+               "short_name" : "N0B 2T0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3710 Nafziger Rd, Wellesley, ON N0B 2T0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4769848,
+                  "lng" : -80.764675
+               },
+               "southwest" : {
+                  "lat" : 43.4767787,
+                  "lng" : -80.76502909999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4769165,
+               "lng" : -80.76487139999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.47823073029149,
+                  "lng" : -80.76350306970849
+               },
+               "southwest" : {
+                  "lat" : 43.4755327697085,
+                  "lng" : -80.76620103029151
+               }
+            }
+         },
+         "place_id" : "ChIJY2_Bjor-K4gRQtwMUMO3lZw",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

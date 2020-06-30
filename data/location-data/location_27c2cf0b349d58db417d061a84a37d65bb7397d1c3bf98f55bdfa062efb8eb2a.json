@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "475",
+               "short_name" : "475",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Charolais Boulevard",
+               "short_name" : "Charolais Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Churchville",
+               "short_name" : "Churchville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brampton",
+               "short_name" : "Brampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Peel",
+               "short_name" : "Regional Municipality of Peel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L6Y 0M2",
+               "short_name" : "L6Y 0M2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "475 Charolais Blvd, Brampton, ON L6Y 0M2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6512997,
+                  "lng" : -79.75813839999999
+               },
+               "southwest" : {
+                  "lat" : 43.6507959,
+                  "lng" : -79.75859629999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6510764,
+               "lng" : -79.7584315
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6523967802915,
+                  "lng" : -79.75701836970849
+               },
+               "southwest" : {
+                  "lat" : 43.6496988197085,
+                  "lng" : -79.75971633029151
+               }
+            }
+         },
+         "place_id" : "ChIJCy94N0EVK4gRrp5IhAZ0JiM",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

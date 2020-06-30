@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "238",
+               "short_name" : "238",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street North",
+               "short_name" : "King St N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2J 2Y7",
+               "short_name" : "N2J 2Y7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "238 King St N, Waterloo, ON N2J 2Y7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4756175,
+               "lng" : -80.5245319
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.47696648029149,
+                  "lng" : -80.52318291970849
+               },
+               "southwest" : {
+                  "lat" : 43.4742685197085,
+                  "lng" : -80.52588088029151
+               }
+            }
+         },
+         "place_id" : "ChIJOzh8V2n0K4gRbxqDYEzAkCw",
+         "plus_code" : {
+            "compound_code" : "FFGG+65 Waterloo, ON, Canada",
+            "global_code" : "86MXFFGG+65"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

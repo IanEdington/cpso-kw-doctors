@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Manitou Drive",
+               "short_name" : "Manitou Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trillium Industrial Park",
+               "short_name" : "Trillium Industrial Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2C 2J6",
+               "short_name" : "N2C 2J6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5 Manitou Dr, Kitchener, ON N2C 2J6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4183992,
+                  "lng" : -80.4532961
+               },
+               "southwest" : {
+                  "lat" : 43.4177441,
+                  "lng" : -80.4547099
+               }
+            },
+            "location" : {
+               "lat" : 43.418259,
+               "lng" : -80.4544908
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4194206302915,
+                  "lng" : -80.45265401970849
+               },
+               "southwest" : {
+                  "lat" : 43.41672266970851,
+                  "lng" : -80.4553519802915
+               }
+            }
+         },
+         "place_id" : "ChIJCeSV2MyKK4gREmPc0g4SbWA",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

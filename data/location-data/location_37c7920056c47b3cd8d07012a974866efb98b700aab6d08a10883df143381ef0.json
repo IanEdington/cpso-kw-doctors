@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Delhi Street",
+               "short_name" : "Delhi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waverley",
+               "short_name" : "Waverley",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Guelph",
+               "short_name" : "Guelph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington County",
+               "short_name" : "Wellington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1E 4J4",
+               "short_name" : "N1E 4J4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "115 Delhi St, Guelph, ON N1E 4J4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5564733,
+               "lng" : -80.2532391
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5578222802915,
+                  "lng" : -80.25189011970849
+               },
+               "southwest" : {
+                  "lat" : 43.5551243197085,
+                  "lng" : -80.25458808029151
+               }
+            }
+         },
+         "place_id" : "ChIJbxdLofKaK4gRk1GjnMIlNak",
+         "plus_code" : {
+            "compound_code" : "HP4W+HP Guelph, ON, Canada",
+            "global_code" : "86MXHP4W+HP"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

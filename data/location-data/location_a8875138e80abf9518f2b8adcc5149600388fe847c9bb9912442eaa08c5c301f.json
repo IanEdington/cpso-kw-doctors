@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#203",
+               "short_name" : "#203",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westheights Drive",
+               "short_name" : "Westheights Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Forest Heights",
+               "short_name" : "Forest Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2N 2A8",
+               "short_name" : "N2N 2A8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10 Westheights Dr #203, Kitchener, ON N2N 2A8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.429361,
+               "lng" : -80.5309572
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4307099802915,
+                  "lng" : -80.52960821970849
+               },
+               "southwest" : {
+                  "lat" : 43.4280120197085,
+                  "lng" : -80.53230618029151
+               }
+            }
+         },
+         "place_id" : "ChIJi54eXsT1K4gR0gIQEXzzHeM",
+         "plus_code" : {
+            "compound_code" : "CFH9+PJ Kitchener, ON, Canada",
+            "global_code" : "86MXCFH9+PJ"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

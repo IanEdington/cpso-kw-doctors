@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "835",
+               "short_name" : "835",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street West",
+               "short_name" : "King St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "KW Hospital",
+               "short_name" : "KW Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G",
+               "short_name" : "N2G",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "835 King St W, Kitchener, ON N2G, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4568239,
+               "lng" : -80.5108719
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45817288029149,
+                  "lng" : -80.50952291970849
+               },
+               "southwest" : {
+                  "lat" : 43.45547491970849,
+                  "lng" : -80.51222088029149
+               }
+            }
+         },
+         "place_id" : "EhU4MzUgS2luZyBTdCBXLCBDYW5hZGEiGxIZChQKEglh1FqFaPQriBH0w3TpH6dR-hDDBg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

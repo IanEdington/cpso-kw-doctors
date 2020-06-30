@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "365",
+               "short_name" : "365",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Street",
+               "short_name" : "West St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Simcoe",
+               "short_name" : "Simcoe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk County",
+               "short_name" : "Norfolk County",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Norfolk County",
+               "short_name" : "Norfolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N3Y 1T7",
+               "short_name" : "N3Y 1T7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "365 West St, Simcoe, ON N3Y 1T7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.83504,
+               "lng" : -80.314488
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8363889802915,
+                  "lng" : -80.3131390197085
+               },
+               "southwest" : {
+                  "lat" : 42.8336910197085,
+                  "lng" : -80.31583698029151
+               }
+            }
+         },
+         "place_id" : "ChIJSUxjgtFNLIgR2sC2J10BeZA",
+         "plus_code" : {
+            "compound_code" : "RMPP+26 Simcoe, ON, Canada",
+            "global_code" : "86JXRMPP+26"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

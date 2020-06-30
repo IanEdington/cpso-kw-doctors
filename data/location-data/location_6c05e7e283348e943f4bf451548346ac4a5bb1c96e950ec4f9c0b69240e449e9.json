@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University Shops Plaza",
+               "short_name" : "University Shops Plaza",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "170",
+               "short_name" : "170",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue West",
+               "short_name" : "University Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3E9",
+               "short_name" : "N2L 3E9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Shops Plaza, 13-170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4720192,
+                  "lng" : -80.5381184
+               },
+               "southwest" : {
+                  "lat" : 43.4714226,
+                  "lng" : -80.539272
+               }
+            },
+            "location" : {
+               "lat" : 43.4717593,
+               "lng" : -80.5387664
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4730698802915,
+                  "lng" : -80.5373462197085
+               },
+               "southwest" : {
+                  "lat" : 43.4703719197085,
+                  "lng" : -80.5400441802915
+               }
+            }
+         },
+         "place_id" : "Ek1Vbml2ZXJzaXR5IFNob3BzIFBsYXphLCAxMy0xNzAgVW5pdmVyc2l0eSBBdmUgVywgV2F0ZXJsb28sIE9OIE4yTCAzRTksIENhbmFkYSIeGhwKFgoUChIJRQyAyQb0K4gRWHm1Sntx8XsSAjEz",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

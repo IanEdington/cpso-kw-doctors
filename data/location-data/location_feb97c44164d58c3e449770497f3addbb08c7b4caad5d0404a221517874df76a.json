@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "445",
+               "short_name" : "445",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Centre Street North",
+               "short_name" : "Centre St N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Napanee",
+               "short_name" : "Napanee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lennox and Addington County",
+               "short_name" : "Lennox and Addington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K7R 3S4",
+               "short_name" : "K7R 3S4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "445 Centre St N, Napanee, ON K7R 3S4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2586296,
+               "lng" : -76.96138979999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2599785802915,
+                  "lng" : -76.96004081970848
+               },
+               "southwest" : {
+                  "lat" : 44.2572806197085,
+                  "lng" : -76.96273878029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsbiY1SnN0kwRoJtbS9kMRCc",
+         "plus_code" : {
+            "compound_code" : "725Q+FC Napanee, ON, Canada",
+            "global_code" : "87P5725Q+FC"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

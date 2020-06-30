@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "N2M 4K1",
+               "short_name" : "N2M 4K1",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Forest Hill",
+               "short_name" : "Forest Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitchener, ON N2M 4K1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4281318,
+                  "lng" : -80.50701979999999
+               },
+               "southwest" : {
+                  "lat" : 43.4249001,
+                  "lng" : -80.5120208
+               }
+            },
+            "location" : {
+               "lat" : 43.4268381,
+               "lng" : -80.5096343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4281318,
+                  "lng" : -80.50701979999999
+               },
+               "southwest" : {
+                  "lat" : 43.4249001,
+                  "lng" : -80.5120208
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ11FPwa_1K4gR-KhR18j0aJw",
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

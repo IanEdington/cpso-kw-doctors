@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "695",
+               "short_name" : "695",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Canterbury Street",
+               "short_name" : "Canterbury St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodstock",
+               "short_name" : "Woodstock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford County",
+               "short_name" : "Oxford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N4S 8Z8",
+               "short_name" : "N4S 8Z8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2-695 Canterbury St, Woodstock, ON N4S 8Z8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1349022,
+               "lng" : -80.74859339999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1362511802915,
+                  "lng" : -80.74724441970848
+               },
+               "southwest" : {
+                  "lat" : 43.1335532197085,
+                  "lng" : -80.7499423802915
+               }
+            }
+         },
+         "place_id" : "EjIyLTY5NSBDYW50ZXJidXJ5IFN0LCBXb29kc3RvY2ssIE9OIE40UyA4WjgsIENhbmFkYSIdGhsKFgoUChIJK6wdyRYfLIgRKoKN7yxgvyISATI",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

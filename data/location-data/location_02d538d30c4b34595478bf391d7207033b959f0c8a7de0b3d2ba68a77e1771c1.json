@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dundurn Street South",
+               "short_name" : "Dundurn St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kirkendall North",
+               "short_name" : "Kirkendall North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L8P 4K3",
+               "short_name" : "L8P 4K3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "160 Dundurn St S, Hamilton, ON L8P 4K3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2580436,
+                  "lng" : -79.88995799999999
+               },
+               "southwest" : {
+                  "lat" : 43.25783029999999,
+                  "lng" : -79.8903749
+               }
+            },
+            "location" : {
+               "lat" : 43.2579465,
+               "lng" : -79.8901583
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2592859302915,
+                  "lng" : -79.8888174697085
+               },
+               "southwest" : {
+                  "lat" : 43.2565879697085,
+                  "lng" : -79.89151543029151
+               }
+            }
+         },
+         "place_id" : "ChIJMzqU62WbLIgRS0cyKww2mXs",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

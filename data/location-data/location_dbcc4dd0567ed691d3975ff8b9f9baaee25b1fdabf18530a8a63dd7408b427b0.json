@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "385",
+               "short_name" : "385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fairway Road South",
+               "short_name" : "Fairway Rd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trillium Industrial Park",
+               "short_name" : "Trillium Industrial Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2C 2N9",
+               "short_name" : "N2C 2N9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "385 Fairway Rd S, Kitchener, ON N2C 2N9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4214735,
+                  "lng" : -80.4396132
+               },
+               "southwest" : {
+                  "lat" : 43.4191653,
+                  "lng" : -80.44274759999999
+               }
+            },
+            "location" : {
+               "lat" : 43.42037140000001,
+               "lng" : -80.44134439999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.42166838029149,
+                  "lng" : -80.4396132
+               },
+               "southwest" : {
+                  "lat" : 43.41897041970849,
+                  "lng" : -80.44274759999999
+               }
+            }
+         },
+         "place_id" : "ChIJf5AY2dqKK4gR8yUuyY6flMw",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

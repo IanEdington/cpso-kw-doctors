@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Street South",
+               "short_name" : "Victoria St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "City Commercial Core",
+               "short_name" : "City Commercial Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1C5",
+               "short_name" : "N2G 1C5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10 Victoria St S, Kitchener, ON N2G 1C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4522308,
+               "lng" : -80.4993035
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4535797802915,
+                  "lng" : -80.4979545197085
+               },
+               "southwest" : {
+                  "lat" : 43.4508818197085,
+                  "lng" : -80.50065248029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnasg6PP0K4gRZRIhgXgidR4",
+         "plus_code" : {
+            "compound_code" : "FG22+V7 Kitchener, ON, Canada",
+            "global_code" : "86MXFG22+V7"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10B",
+               "short_name" : "10B",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Street South",
+               "short_name" : "Victoria St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "City Commercial Core",
+               "short_name" : "City Commercial Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1C5",
+               "short_name" : "N2G 1C5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10B Victoria St S, Kitchener, ON N2G 1C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.452078,
+               "lng" : -80.4989605
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4534269802915,
+                  "lng" : -80.49761151970849
+               },
+               "southwest" : {
+                  "lat" : 43.4507290197085,
+                  "lng" : -80.50030948029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbcC6hl_0K4gR4I-2OzwXbd4",
+         "plus_code" : {
+            "compound_code" : "FG22+RC Kitchener, ON, Canada",
+            "global_code" : "86MXFG22+RC"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

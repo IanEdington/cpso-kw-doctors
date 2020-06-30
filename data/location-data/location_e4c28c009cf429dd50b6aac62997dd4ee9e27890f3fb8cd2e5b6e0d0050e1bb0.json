@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "890",
+               "short_name" : "890",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Glasgow Street",
+               "short_name" : "Glasgow St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Highland West",
+               "short_name" : "Highland West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2N 2Y6",
+               "short_name" : "N2N 2Y6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2-890 Glasgow St, Kitchener, ON N2N 2Y6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4426143,
+                  "lng" : -80.5428191
+               },
+               "southwest" : {
+                  "lat" : 43.4423223,
+                  "lng" : -80.5434015
+               }
+            },
+            "location" : {
+               "lat" : 43.4425018,
+               "lng" : -80.5431071
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4438172802915,
+                  "lng" : -80.5417613197085
+               },
+               "southwest" : {
+                  "lat" : 43.44111931970851,
+                  "lng" : -80.54445928029151
+               }
+            }
+         },
+         "place_id" : "Ei8yLTg5MCBHbGFzZ293IFN0LCBLaXRjaGVuZXIsIE9OIE4yTiAyWTYsIENhbmFkYSIdGhsKFgoUChIJMRd49yn0K4gRgC0qtZ_SLnoSATI",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

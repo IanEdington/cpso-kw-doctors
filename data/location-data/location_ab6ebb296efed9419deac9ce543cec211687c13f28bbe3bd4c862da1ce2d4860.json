@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Janet Street South",
+               "short_name" : "Janet St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Teeswater",
+               "short_name" : "Teeswater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Bruce",
+               "short_name" : "South Bruce",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bruce County",
+               "short_name" : "Bruce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N0G 2S0",
+               "short_name" : "N0G 2S0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Janet St S, Teeswater, ON N0G 2S0, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.998694,
+               "lng" : -81.28972999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0000429802915,
+                  "lng" : -81.2883810197085
+               },
+               "southwest" : {
+                  "lat" : 43.9973450197085,
+                  "lng" : -81.2910789802915
+               }
+            }
+         },
+         "place_id" : "ChIJkTrWJy8JKYgRo0uG9Dd4ebc",
+         "plus_code" : {
+            "compound_code" : "XPX6+F4 Teeswater, ON, Canada",
+            "global_code" : "86MWXPX6+F4"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

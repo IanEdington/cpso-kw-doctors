@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "475",
+               "short_name" : "475",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Park Street",
+               "short_name" : "Park St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "KW Hospital",
+               "short_name" : "KW Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 4V5",
+               "short_name" : "N2G 4V5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "101-475 Park St, Kitchener, ON N2G 4V5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4556403,
+                  "lng" : -80.5132794
+               },
+               "southwest" : {
+                  "lat" : 43.4554015,
+                  "lng" : -80.513566
+               }
+            },
+            "location" : {
+               "lat" : 43.4555485,
+               "lng" : -80.5134121
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4568698802915,
+                  "lng" : -80.5120737197085
+               },
+               "southwest" : {
+                  "lat" : 43.4541719197085,
+                  "lng" : -80.5147716802915
+               }
+            }
+         },
+         "place_id" : "Ei4xMDEtNDc1IFBhcmsgU3QsIEtpdGNoZW5lciwgT04gTjJHIDRWNSwgQ2FuYWRhIh8aHQoWChQKEglhAP20afQriBHKK76EulYdMBIDMTAx",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

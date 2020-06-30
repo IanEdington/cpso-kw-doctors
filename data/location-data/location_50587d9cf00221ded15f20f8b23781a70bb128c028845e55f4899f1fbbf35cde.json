@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rossland Road East",
+               "short_name" : "Rossland Rd E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ajax",
+               "short_name" : "Ajax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Durham",
+               "short_name" : "Regional Municipality of Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L1Z 0K4",
+               "short_name" : "L1Z 0K4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "105-300 Rossland Rd E, Ajax, ON L1Z 0K4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.88302179999999,
+                  "lng" : -79.01806979999999
+               },
+               "southwest" : {
+                  "lat" : 43.8820291,
+                  "lng" : -79.01896979999999
+               }
+            },
+            "location" : {
+               "lat" : 43.8825785,
+               "lng" : -79.0186815
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.88387443029149,
+                  "lng" : -79.0171708197085
+               },
+               "southwest" : {
+                  "lat" : 43.88117646970849,
+                  "lng" : -79.0198687802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMDUtMzAwIFJvc3NsYW5kIFJkIEUsIEFqYXgsIE9OIEwxWiAwSzQsIENhbmFkYSIfGh0KFgoUChIJdzOjOvYf1YkRSHs7oKWK1McSAzEwNQ",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

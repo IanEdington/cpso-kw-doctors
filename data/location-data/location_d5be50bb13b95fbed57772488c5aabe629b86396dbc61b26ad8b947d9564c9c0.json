@@ -1,0 +1,90 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "404",
+               "short_name" : "404",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "One Victoria",
+               "short_name" : "One Victoria",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Street South",
+               "short_name" : "Victoria St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "City Commercial Core",
+               "short_name" : "City Commercial Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1C2",
+               "short_name" : "N2G 1C2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "One Victoria, 404-1 Victoria St S, Kitchener, ON N2G 1C2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4526856,
+                  "lng" : -80.49751719999999
+               },
+               "southwest" : {
+                  "lat" : 43.45217239999999,
+                  "lng" : -80.4983062
+               }
+            },
+            "location" : {
+               "lat" : 43.4525008,
+               "lng" : -80.4979091
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45377798029149,
+                  "lng" : -80.49656271970849
+               },
+               "southwest" : {
+                  "lat" : 43.45108001970849,
+                  "lng" : -80.4992606802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkBPbmUgVmljdG9yaWEsIDQwNC0xIFZpY3RvcmlhIFN0IFMsIEtpdGNoZW5lciwgT04gTjJHIDFDMiwgQ2FuYWRhIh8aHQoWChQKEgnJ6DU29fQriBGFxvtt8vXqOBIDNDA0",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

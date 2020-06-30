@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "207",
+               "short_name" : "207",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1415",
+               "short_name" : "1415",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huron Road",
+               "short_name" : "Huron Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Plains",
+               "short_name" : "South Plains",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2R",
+               "short_name" : "N2R",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "207-1415 Huron Rd, Kitchener, ON N2R, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3821771,
+               "lng" : -80.4907195
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3835260802915,
+                  "lng" : -80.4893705197085
+               },
+               "southwest" : {
+                  "lat" : 43.3808281197085,
+                  "lng" : -80.49206848029151
+               }
+            }
+         },
+         "place_id" : "EigyMDctMTQxNSBIdXJvbiBSZCwgS2l0Y2hlbmVyLCBPTiwgQ2FuYWRhIiQaIgobEhkKFAoSCYk6DpSOCiyIEYHjtOd0mdfeEIcLEgMyMDc",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

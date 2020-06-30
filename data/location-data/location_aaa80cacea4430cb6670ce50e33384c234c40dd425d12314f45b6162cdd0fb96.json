@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1450",
+               "short_name" : "1450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Block Line Road",
+               "short_name" : "Block Line Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Country Hills East",
+               "short_name" : "Country Hills East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2C 0A5",
+               "short_name" : "N2C 0A5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201-1450 Block Line Rd, Kitchener, ON N2C 0A5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4193241,
+                  "lng" : -80.4680661
+               },
+               "southwest" : {
+                  "lat" : 43.4185668,
+                  "lng" : -80.471307
+               }
+            },
+            "location" : {
+               "lat" : 43.419017,
+               "lng" : -80.469675
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4202944302915,
+                  "lng" : -80.4680661
+               },
+               "southwest" : {
+                  "lat" : 43.4175964697085,
+                  "lng" : -80.471307
+               }
+            }
+         },
+         "place_id" : "EjUyMDEtMTQ1MCBCbG9jayBMaW5lIFJkLCBLaXRjaGVuZXIsIE9OIE4yQyAwQTUsIENhbmFkYSIfGh0KFgoUChIJ2wHZpDv1K4gRkuKduXAk0A0SAzIwMQ",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

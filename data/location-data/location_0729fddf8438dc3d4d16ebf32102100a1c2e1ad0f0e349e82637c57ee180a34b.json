@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "203",
+               "short_name" : "203",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "851",
+               "short_name" : "851",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fischer-Hallman Road",
+               "short_name" : "Fischer-Hallman Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 5N8",
+               "short_name" : "N2M 5N8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "203-851 Fischer-Hallman Rd, Kitchener, ON N2M 5N8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4429154,
+                  "lng" : -80.5435085
+               },
+               "southwest" : {
+                  "lat" : 43.44219,
+                  "lng" : -80.54567299999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4425235,
+               "lng" : -80.5447688
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4439016802915,
+                  "lng" : -80.54324176970849
+               },
+               "southwest" : {
+                  "lat" : 43.4412037197085,
+                  "lng" : -80.54593973029149
+               }
+            }
+         },
+         "place_id" : "EjkyMDMtODUxIEZpc2NoZXItSGFsbG1hbiBSZCwgS2l0Y2hlbmVyLCBPTiBOMk0gNU44LCBDYW5hZGEiHxodChYKFAoSCTVXIh2C9iuIEaduyRoD2K5HEgMyMDM",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

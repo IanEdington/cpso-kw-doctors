@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Queensway West",
+               "short_name" : "Queensway W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cooksville",
+               "short_name" : "Cooksville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mississauga",
+               "short_name" : "Mississauga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Peel",
+               "short_name" : "Regional Municipality of Peel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L5B 1B8",
+               "short_name" : "L5B 1B8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 Queensway W, Mississauga, ON L5B 1B8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5723208,
+                  "lng" : -79.6072327
+               },
+               "southwest" : {
+                  "lat" : 43.5704308,
+                  "lng" : -79.61023019999999
+               }
+            },
+            "location" : {
+               "lat" : 43.5714273,
+               "lng" : -79.6085507
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5727247802915,
+                  "lng" : -79.6072327
+               },
+               "southwest" : {
+                  "lat" : 43.5700268197085,
+                  "lng" : -79.61023019999999
+               }
+            }
+         },
+         "place_id" : "ChIJmQ1EjPZGK4gR7XMVDjV8rGQ",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

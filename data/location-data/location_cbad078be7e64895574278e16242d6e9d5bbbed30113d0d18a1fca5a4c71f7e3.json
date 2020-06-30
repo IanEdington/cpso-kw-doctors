@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue West",
+               "short_name" : "University Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3G1",
+               "short_name" : "N2L 3G1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4705281,
+               "lng" : -80.54615989999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4718770802915,
+                  "lng" : -80.5448109197085
+               },
+               "southwest" : {
+                  "lat" : 43.4691791197085,
+                  "lng" : -80.5475088802915
+               }
+            }
+         },
+         "place_id" : "ChIJxbQnhan2K4gRXhJhrrRVYcU",
+         "plus_code" : {
+            "compound_code" : "FFC3+6G Waterloo, ON, Canada",
+            "global_code" : "86MXFFC3+6G"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue West",
+               "short_name" : "University Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3G1",
+               "short_name" : "N2L 3G1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4722854,
+               "lng" : -80.5448576
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4736343802915,
+                  "lng" : -80.54350861970849
+               },
+               "southwest" : {
+                  "lat" : 43.4709364197085,
+                  "lng" : -80.5462065802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_8ztAq32K4gRF44mljnynd0",
+         "plus_code" : {
+            "compound_code" : "FFC4+W3 Waterloo, ON, Canada",
+            "global_code" : "86MXFFC4+W3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

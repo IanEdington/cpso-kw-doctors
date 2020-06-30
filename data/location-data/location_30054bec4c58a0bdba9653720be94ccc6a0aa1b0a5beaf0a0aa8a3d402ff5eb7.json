@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "493",
+               "short_name" : "493",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lancaster Street West",
+               "short_name" : "Lancaster St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bridgeport West",
+               "short_name" : "Bridgeport West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2K 1L8",
+               "short_name" : "N2K 1L8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "101-493 Lancaster St W, Kitchener, ON N2K 1L8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4758843,
+                  "lng" : -80.48464109999999
+               },
+               "southwest" : {
+                  "lat" : 43.4754004,
+                  "lng" : -80.4851594
+               }
+            },
+            "location" : {
+               "lat" : 43.4756862,
+               "lng" : -80.4848358
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4769913302915,
+                  "lng" : -80.4835512697085
+               },
+               "southwest" : {
+                  "lat" : 43.4742933697085,
+                  "lng" : -80.48624923029151
+               }
+            }
+         },
+         "place_id" : "EjUxMDEtNDkzIExhbmNhc3RlciBTdCBXLCBLaXRjaGVuZXIsIE9OIE4ySyAxTDgsIENhbmFkYSIfGh0KFgoUChIJlyMPeGTzK4gRQZ02Mshzdf4SAzEwMQ",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

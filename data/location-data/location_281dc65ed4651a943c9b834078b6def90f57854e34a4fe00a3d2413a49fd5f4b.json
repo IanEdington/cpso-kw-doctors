@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "120",
+               "short_name" : "120",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "121",
+               "short_name" : "121",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Charles Street West",
+               "short_name" : "Charles St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "City Commercial Core",
+               "short_name" : "City Commercial Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1H7",
+               "short_name" : "N2G 1H7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "120-121 Charles St W, Kitchener, ON N2G 1H7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4511316,
+               "lng" : -80.4978594
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45248058029149,
+                  "lng" : -80.49651041970849
+               },
+               "southwest" : {
+                  "lat" : 43.44978261970849,
+                  "lng" : -80.49920838029149
+               }
+            }
+         },
+         "place_id" : "EjMxMjAtMTIxIENoYXJsZXMgU3QgVywgS2l0Y2hlbmVyLCBPTiBOMkcgMUg3LCBDYW5hZGEiHxodChYKFAoSCRGn2Bn19CuIEZiR_Gt_avmeEgMxMjA",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "84",
+               "short_name" : "84",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carden Street",
+               "short_name" : "Carden St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guelph",
+               "short_name" : "Guelph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington County",
+               "short_name" : "Wellington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1H 3A3",
+               "short_name" : "N1H 3A3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "84 Carden St, Guelph, ON N1H 3A3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5448124,
+               "lng" : -80.2471099
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5461613802915,
+                  "lng" : -80.24576091970849
+               },
+               "southwest" : {
+                  "lat" : 43.5434634197085,
+                  "lng" : -80.24845888029149
+               }
+            }
+         },
+         "place_id" : "ChIJhcMgQsKaK4gRcoH45JcG_tg",
+         "plus_code" : {
+            "compound_code" : "GQV3+W5 Guelph, ON, Canada",
+            "global_code" : "86MXGQV3+W5"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

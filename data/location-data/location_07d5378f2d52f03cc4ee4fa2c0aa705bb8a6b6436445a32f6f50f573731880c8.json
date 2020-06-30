@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maple Grove Village",
+               "short_name" : "Maple Grove Village",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Oakville",
+               "short_name" : "Oakville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Halton",
+               "short_name" : "Regional Municipality of Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L6J 6X8",
+               "short_name" : "L6J 6X8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maple Grove Village, Oakville, ON L6J 6X8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.47929999999999,
+               "lng" : -79.657
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4806489802915,
+                  "lng" : -79.6556510197085
+               },
+               "southwest" : {
+                  "lat" : 43.4779510197085,
+                  "lng" : -79.65834898029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ49pG4VNDK4gRo936oyKezfQ",
+         "plus_code" : {
+            "compound_code" : "F8HV+P6 Oakville, ON, Canada",
+            "global_code" : "87M2F8HV+P6"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

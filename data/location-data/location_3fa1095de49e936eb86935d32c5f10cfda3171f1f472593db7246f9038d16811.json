@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B106",
+               "short_name" : "B106",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "751",
+               "short_name" : "751",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Street South",
+               "short_name" : "Victoria St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Victoria Hills",
+               "short_name" : "Victoria Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 5N4",
+               "short_name" : "N2M 5N4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "751 Victoria St S B106, Kitchener, ON N2M 5N4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.438952,
+               "lng" : -80.521276
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4403009802915,
+                  "lng" : -80.51992701970849
+               },
+               "southwest" : {
+                  "lat" : 43.4376030197085,
+                  "lng" : -80.52262498029151
+               }
+            }
+         },
+         "place_id" : "EjU3NTEgVmljdG9yaWEgU3QgUyBCMTA2LCBLaXRjaGVuZXIsIE9OIE4yTSA1TjQsIENhbmFkYSIgGh4KFgoUChIJmahSlzX0K4gRFj3Xn6qTXCwSBEIxMDY",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

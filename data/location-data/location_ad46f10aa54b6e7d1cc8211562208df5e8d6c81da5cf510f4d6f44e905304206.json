@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "835",
+               "short_name" : "835",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street West",
+               "short_name" : "King St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "KW Hospital",
+               "short_name" : "KW Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 4K9",
+               "short_name" : "N2G 4K9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "835 King St W, Kitchener, ON N2G 4K9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4576542,
+                  "lng" : -80.5098424
+               },
+               "southwest" : {
+                  "lat" : 43.454719,
+                  "lng" : -80.5142989
+               }
+            },
+            "location" : {
+               "lat" : 43.4561594,
+               "lng" : -80.51223969999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4576542,
+                  "lng" : -80.5098424
+               },
+               "southwest" : {
+                  "lat" : 43.454719,
+                  "lng" : -80.5142989
+               }
+            }
+         },
+         "place_id" : "ChIJV5mLbmj0K4gRD8iwKTnMOSk",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

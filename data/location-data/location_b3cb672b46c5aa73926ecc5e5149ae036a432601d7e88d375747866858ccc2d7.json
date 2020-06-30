@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1415",
+               "short_name" : "1415",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue West",
+               "short_name" : "1st Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Owen Sound",
+               "short_name" : "Owen Sound",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grey County",
+               "short_name" : "Grey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N4K 4K8",
+               "short_name" : "N4K 4K8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2000-1415 1st Ave W, Owen Sound, ON N4K 4K8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5734161,
+                  "lng" : -80.9441908
+               },
+               "southwest" : {
+                  "lat" : 44.5728693,
+                  "lng" : -80.94510389999999
+               }
+            },
+            "location" : {
+               "lat" : 44.5731966,
+               "lng" : -80.944446
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5744916802915,
+                  "lng" : -80.9432983697085
+               },
+               "southwest" : {
+                  "lat" : 44.5717937197085,
+                  "lng" : -80.94599633029151
+               }
+            }
+         },
+         "place_id" : "EjMyMDAwLTE0MTUgMXN0IEF2ZSBXLCBPd2VuIFNvdW5kLCBPTiBONEsgNEs4LCBDYW5hZGEiIBoeChYKFAoSCZO0N6eH_CmIEU_3-p67s0k-EgQyMDAw",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

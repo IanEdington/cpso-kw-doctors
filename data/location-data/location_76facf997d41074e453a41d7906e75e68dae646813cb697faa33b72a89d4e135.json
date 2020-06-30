@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "407",
+               "short_name" : "407",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "564",
+               "short_name" : "564",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belmont Avenue West",
+               "short_name" : "Belmont Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cherry Hill",
+               "short_name" : "Cherry Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 5N6",
+               "short_name" : "N2M 5N6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "564 Belmont Ave W #407, Kitchener, ON N2M 5N6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.450235,
+               "lng" : -80.5154529
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4515839802915,
+                  "lng" : -80.5141039197085
+               },
+               "southwest" : {
+                  "lat" : 43.4488860197085,
+                  "lng" : -80.51680188029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ__8_5UP0K4gR9DNU9VUctc4",
+         "plus_code" : {
+            "compound_code" : "FF2M+3R Kitchener, ON, Canada",
+            "global_code" : "86MXFF2M+3R"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

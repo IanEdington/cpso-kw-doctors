@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B106",
+               "short_name" : "B106",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "751",
+               "short_name" : "751",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Street South",
+               "short_name" : "Victoria St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Victoria Hills",
+               "short_name" : "Victoria Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 5N4",
+               "short_name" : "N2M 5N4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "751 Victoria St S B106, Kitchener, ON N2M 5N4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4386027,
+               "lng" : -80.5220176
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4399516802915,
+                  "lng" : -80.5206686197085
+               },
+               "southwest" : {
+                  "lat" : 43.4372537197085,
+                  "lng" : -80.52336658029151
+               }
+            }
+         },
+         "place_id" : "ChIJHzAyhDX0K4gRDb3nnK1_0Zw",
+         "plus_code" : {
+            "compound_code" : "CFQH+C5 Kitchener, ON, Canada",
+            "global_code" : "86MXCFQH+C5"
+         },
+         "types" : [ "doctor", "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

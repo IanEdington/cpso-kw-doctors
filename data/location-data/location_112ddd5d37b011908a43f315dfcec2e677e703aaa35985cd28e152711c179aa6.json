@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20B",
+               "short_name" : "20B",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hespeler Road",
+               "short_name" : "Hespeler Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1R 6J8",
+               "short_name" : "N1R 6J8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20B-600 Hespeler Rd, Cambridge, ON N1R 6J8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4058204,
+                  "lng" : -80.32677009999999
+               },
+               "southwest" : {
+                  "lat" : 43.4031696,
+                  "lng" : -80.3302123
+               }
+            },
+            "location" : {
+               "lat" : 43.404597,
+               "lng" : -80.32897010000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4058439802915,
+                  "lng" : -80.32677009999999
+               },
+               "southwest" : {
+                  "lat" : 43.4031460197085,
+                  "lng" : -80.3302123
+               }
+            }
+         },
+         "place_id" : "EjIyMEItNjAwIEhlc3BlbGVyIFJkLCBDYW1icmlkZ2UsIE9OIE4xUiA2SjgsIENhbmFkYSIfGh0KFgoUChIJM2A3xraJK4gRU1ldnKBnHXESAzIwQg",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

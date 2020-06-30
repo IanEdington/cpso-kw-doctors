@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20B",
+               "short_name" : "20B",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "385",
+               "short_name" : "385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Frederick Street",
+               "short_name" : "Frederick St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Frederick",
+               "short_name" : "Central Frederick",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 2P2",
+               "short_name" : "N2H 2P2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20B-385 Frederick St, Kitchener, ON N2H 2P2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4583558,
+                  "lng" : -80.4715692
+               },
+               "southwest" : {
+                  "lat" : 43.455151,
+                  "lng" : -80.4744398
+               }
+            },
+            "location" : {
+               "lat" : 43.4570249,
+               "lng" : -80.4726292
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4583558,
+                  "lng" : -80.4715692
+               },
+               "southwest" : {
+                  "lat" : 43.455151,
+                  "lng" : -80.4744398
+               }
+            }
+         },
+         "place_id" : "EjMyMEItMzg1IEZyZWRlcmljayBTdCwgS2l0Y2hlbmVyLCBPTiBOMkggMlAyLCBDYW5hZGEiHxodChYKFAoSCV3S1mi89CuIEZpIE-k4oMI6EgMyMEI",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "167",
+               "short_name" : "167",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hespeler Road",
+               "short_name" : "Hespeler Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greenway-Chaplin",
+               "short_name" : "Greenway-Chaplin",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1R 3H7",
+               "short_name" : "N1R 3H7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "167 Hespeler Rd, Cambridge, ON N1R 3H7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.381414,
+               "lng" : -80.3193521
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3827629802915,
+                  "lng" : -80.31800311970851
+               },
+               "southwest" : {
+                  "lat" : 43.3800650197085,
+                  "lng" : -80.32070108029151
+               }
+            }
+         },
+         "place_id" : "ChIJJ4w4lCqIK4gRIjqWjNziQmQ",
+         "plus_code" : {
+            "compound_code" : "9MJJ+H7 Cambridge, ON, Canada",
+            "global_code" : "86MX9MJJ+H7"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

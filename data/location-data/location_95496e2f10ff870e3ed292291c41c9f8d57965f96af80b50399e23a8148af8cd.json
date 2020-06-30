@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "535",
+               "short_name" : "535",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belmont Avenue West",
+               "short_name" : "Belmont Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westmount",
+               "short_name" : "Westmount",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 5E9",
+               "short_name" : "N2M 5E9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "535 Belmont Ave W #102, Kitchener, ON N2M 5E9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4488576,
+               "lng" : -80.5155924
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4502065802915,
+                  "lng" : -80.51424341970851
+               },
+               "southwest" : {
+                  "lat" : 43.4475086197085,
+                  "lng" : -80.51694138029151
+               }
+            }
+         },
+         "place_id" : "ChIJq6DsD0T0K4gRvR2agKBOwso",
+         "plus_code" : {
+            "compound_code" : "CFXM+GQ Kitchener, ON, Canada",
+            "global_code" : "86MXCFXM+GQ"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

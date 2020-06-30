@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1288",
+               "short_name" : "1288",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Danforth Avenue",
+               "short_name" : "Danforth Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4J 1M6",
+               "short_name" : "M4J 1M6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1288 Danforth Ave, Toronto, ON M4J 1M6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6821687,
+               "lng" : -79.3302011
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6835176802915,
+                  "lng" : -79.32885211970849
+               },
+               "southwest" : {
+                  "lat" : 43.6808197197085,
+                  "lng" : -79.33155008029149
+               }
+            }
+         },
+         "place_id" : "ChIJ98yrrXzM1IkR1-BJ9gW3z3o",
+         "plus_code" : {
+            "compound_code" : "MMJ9+VW Toronto, ON, Canada",
+            "global_code" : "87M2MMJ9+VW"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

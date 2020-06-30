@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1187",
+               "short_name" : "1187",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fischer-Hallman Road",
+               "short_name" : "Fischer-Hallman Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laurentian West",
+               "short_name" : "Laurentian West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2E 4H9",
+               "short_name" : "N2E 4H9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1187 Fischer-Hallman Rd, Kitchener, ON N2E 4H9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.40631430000001,
+               "lng" : -80.50189229999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.40766328029151,
+                  "lng" : -80.5005433197085
+               },
+               "southwest" : {
+                  "lat" : 43.40496531970851,
+                  "lng" : -80.5032412802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_VMt1YL1K4gRki6X3PBE87I",
+         "plus_code" : {
+            "compound_code" : "CF4X+G6 Kitchener, ON, Canada",
+            "global_code" : "86MXCF4X+G6"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

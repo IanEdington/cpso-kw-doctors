@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "5th Avenue",
+               "short_name" : "5th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orangeville",
+               "short_name" : "Orangeville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dufferin County",
+               "short_name" : "Dufferin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L9W 1G2",
+               "short_name" : "L9W 1G2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "500-14 5th Ave, Orangeville, ON L9W 1G2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9284645,
+                  "lng" : -80.0981877
+               },
+               "southwest" : {
+                  "lat" : 43.9279882,
+                  "lng" : -80.0986096
+               }
+            },
+            "location" : {
+               "lat" : 43.9282252,
+               "lng" : -80.09846739999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.92957533029151,
+                  "lng" : -80.09704966970848
+               },
+               "southwest" : {
+                  "lat" : 43.92687736970851,
+                  "lng" : -80.0997476302915
+               }
+            }
+         },
+         "place_id" : "Ei81MDAtMTQgNXRoIEF2ZSwgT3JhbmdldmlsbGUsIE9OIEw5VyAxRzIsIENhbmFkYSIfGh0KFgoUChIJm6yn2YEAK4gRid_K0RhHJ4cSAzUwMA",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

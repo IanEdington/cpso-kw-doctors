@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "J. T. Powell building",
+               "short_name" : "J. T. Powell building",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "168",
+               "short_name" : "168",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Reynolds Walk",
+               "short_name" : "Reynolds Walk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guelph",
+               "short_name" : "Guelph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington County",
+               "short_name" : "Wellington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1G 4Z8",
+               "short_name" : "N1G 4Z8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "J. T. Powell building, 168 Reynolds Walk, Guelph, ON N1G 4Z8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.533441,
+               "lng" : -80.22357599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.53478998029149,
+                  "lng" : -80.22222701970848
+               },
+               "southwest" : {
+                  "lat" : 43.53209201970849,
+                  "lng" : -80.22492498029149
+               }
+            }
+         },
+         "place_id" : "ChIJ7U3l5ZiaK4gRuX8EMcfFPeo",
+         "plus_code" : {
+            "compound_code" : "GQMG+9H Guelph, ON, Canada",
+            "global_code" : "86MXGQMG+9H"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stone Road East",
+               "short_name" : "Stone Rd E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guelph",
+               "short_name" : "Guelph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington County",
+               "short_name" : "Wellington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1G 2W1",
+               "short_name" : "N1G 2W1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Stone Rd E, Guelph, ON N1G 2W1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5327217,
+               "lng" : -80.22618039999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.53407068029149,
+                  "lng" : -80.22483141970848
+               },
+               "southwest" : {
+                  "lat" : 43.5313727197085,
+                  "lng" : -80.22752938029149
+               }
+            }
+         },
+         "place_id" : "ChIJt6A4HTybK4gRxxNATeWZ648",
+         "plus_code" : {
+            "compound_code" : "GQMF+3G Guelph, ON, Canada",
+            "global_code" : "86MXGQMF+3G"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "210",
+               "short_name" : "210",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lorraine Avenue",
+               "short_name" : "Lorraine Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Heritage Park",
+               "short_name" : "Heritage Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2B 3T4",
+               "short_name" : "N2B 3T4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2-210 Lorraine Ave, Kitchener, ON N2B 3T4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4611234,
+               "lng" : -80.4402504
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.46247238029149,
+                  "lng" : -80.43890141970849
+               },
+               "southwest" : {
+                  "lat" : 43.4597744197085,
+                  "lng" : -80.44159938029151
+               }
+            }
+         },
+         "place_id" : "EjEyLTIxMCBMb3JyYWluZSBBdmUsIEtpdGNoZW5lciwgT04gTjJCIDNUNCwgQ2FuYWRhIh0aGwoWChQKEgk77Xe3W4sriBH8BS8CELyjfBIBMg",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

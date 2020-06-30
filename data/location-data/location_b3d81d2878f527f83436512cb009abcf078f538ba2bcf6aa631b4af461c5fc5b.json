@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "College Street",
+               "short_name" : "College St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5G 2E2",
+               "short_name" : "M5G 2E2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "80 College St, Toronto, ON M5G 2E2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6607676,
+               "lng" : -79.3872533
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6621165802915,
+                  "lng" : -79.38590431970849
+               },
+               "southwest" : {
+                  "lat" : 43.6594186197085,
+                  "lng" : -79.38860228029149
+               }
+            }
+         },
+         "place_id" : "ChIJzzhRaLY0K4gRWdOdpc9eFsI",
+         "plus_code" : {
+            "compound_code" : "MJ67+83 Toronto, ON, Canada",
+            "global_code" : "87M2MJ67+83"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "251",
+               "short_name" : "251",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "675",
+               "short_name" : "675",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Queen Street South",
+               "short_name" : "Queen St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mill Courtland Woodside Park",
+               "short_name" : "Mill Courtland Woodside Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 1A1",
+               "short_name" : "N2M 1A1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "251-675 Queen St S, Kitchener, ON N2M 1A1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4424833,
+                  "lng" : -80.49475099999999
+               },
+               "southwest" : {
+                  "lat" : 43.441533,
+                  "lng" : -80.49675870000002
+               }
+            },
+            "location" : {
+               "lat" : 43.4421529,
+               "lng" : -80.4961332
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4433571302915,
+                  "lng" : -80.49440586970852
+               },
+               "southwest" : {
+                  "lat" : 43.4406591697085,
+                  "lng" : -80.49710383029152
+               }
+            }
+         },
+         "place_id" : "EjEyNTEtNjc1IFF1ZWVuIFN0IFMsIEtpdGNoZW5lciwgT04gTjJNIDFBMSwgQ2FuYWRhIh8aHQoWChQKEgltxoLH-fQriBGFTYGIT6LsVxIDMjUx",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

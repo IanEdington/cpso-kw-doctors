@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "298",
+               "short_name" : "298",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lawrence Avenue",
+               "short_name" : "Lawrence Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Victoria Hills",
+               "short_name" : "Victoria Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 1Y4",
+               "short_name" : "N2M 1Y4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "298 Lawrence Ave, Kitchener, ON N2M 1Y4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4414903,
+               "lng" : -80.51297699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.44283928029149,
+                  "lng" : -80.5116280197085
+               },
+               "southwest" : {
+                  "lat" : 43.44014131970849,
+                  "lng" : -80.5143259802915
+               }
+            }
+         },
+         "place_id" : "ChIJQTr_9E70K4gRpLbrgoAvzZ0",
+         "plus_code" : {
+            "compound_code" : "CFRP+HR Kitchener, ON, Canada",
+            "global_code" : "86MXCFRP+HR"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "155",
+               "short_name" : "155",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ardelt Avenue",
+               "short_name" : "Ardelt Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alpine",
+               "short_name" : "Alpine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2C 2E1",
+               "short_name" : "N2C 2E1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "155 Ardelt Ave, Kitchener, ON N2C 2E1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4245036,
+               "lng" : -80.47501849999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4258525802915,
+                  "lng" : -80.47366951970848
+               },
+               "southwest" : {
+                  "lat" : 43.42315461970851,
+                  "lng" : -80.4763674802915
+               }
+            }
+         },
+         "place_id" : "ChIJVVXF-SL1K4gRJCZ-A54U66E",
+         "plus_code" : {
+            "compound_code" : "CGFF+RX Kitchener, ON, Canada",
+            "global_code" : "86MXCGFF+RX"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

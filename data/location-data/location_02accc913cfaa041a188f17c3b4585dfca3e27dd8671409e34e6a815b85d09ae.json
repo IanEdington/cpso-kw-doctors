@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#5",
+               "short_name" : "#5",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "2683",
+               "short_name" : "2683",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lawrence Avenue East",
+               "short_name" : "Lawrence Ave E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scarborough",
+               "short_name" : "Scarborough",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M1P 2S2",
+               "short_name" : "M1P 2S2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2683 Lawrence Ave E #5, Scarborough, ON M1P 2S2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.75186,
+               "lng" : -79.261341
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7532089802915,
+                  "lng" : -79.25999201970849
+               },
+               "southwest" : {
+                  "lat" : 43.7505110197085,
+                  "lng" : -79.26268998029151
+               }
+            }
+         },
+         "place_id" : "ChIJFUoBrcTR1IkRMIBrV1XDeTo",
+         "plus_code" : {
+            "compound_code" : "QP2Q+PF Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QP2Q+PF"
+         },
+         "types" : [ "doctor", "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

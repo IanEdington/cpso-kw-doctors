@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "685",
+               "short_name" : "685",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Adelaide Street North",
+               "short_name" : "Adelaide St N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central London",
+               "short_name" : "Central London",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N5Y 2L4",
+               "short_name" : "N5Y 2L4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "685 Adelaide St N, London, ON N5Y 2L4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9977685,
+                  "lng" : -81.2360975
+               },
+               "southwest" : {
+                  "lat" : 42.9975616,
+                  "lng" : -81.2365157
+               }
+            },
+            "location" : {
+               "lat" : 42.9976695,
+               "lng" : -81.2362863
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9990140302915,
+                  "lng" : -81.2349576197085
+               },
+               "southwest" : {
+                  "lat" : 42.9963160697085,
+                  "lng" : -81.2376555802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-zOLu_btLogRpV_XQxNc5VY",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

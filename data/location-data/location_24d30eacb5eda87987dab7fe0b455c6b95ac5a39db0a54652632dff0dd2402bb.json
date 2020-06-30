@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1193",
+               "short_name" : "1193",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fischer-Hallman Road",
+               "short_name" : "Fischer-Hallman Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laurentian West",
+               "short_name" : "Laurentian West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2R 1P4",
+               "short_name" : "N2R 1P4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1193 Fischer-Hallman Rd, Kitchener, ON N2R 1P4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4029935,
+                  "lng" : -80.4973679
+               },
+               "southwest" : {
+                  "lat" : 43.4025919,
+                  "lng" : -80.4977165
+               }
+            },
+            "location" : {
+               "lat" : 43.4027586,
+               "lng" : -80.49756169999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4041416802915,
+                  "lng" : -80.4961932197085
+               },
+               "southwest" : {
+                  "lat" : 43.4014437197085,
+                  "lng" : -80.49889118029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-27nWHj1K4gR26NkpQ24c6w",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

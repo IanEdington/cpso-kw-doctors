@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "298",
+               "short_name" : "298",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lawrence Avenue",
+               "short_name" : "Lawrence Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Victoria Hills",
+               "short_name" : "Victoria Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 1Y4",
+               "short_name" : "N2M 1Y4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "298 Lawrence Ave, Kitchener, ON N2M 1Y4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.44161889999999,
+                  "lng" : -80.5127529
+               },
+               "southwest" : {
+                  "lat" : 43.4413342,
+                  "lng" : -80.51315199999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4414846,
+               "lng" : -80.5129779
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.44282553029149,
+                  "lng" : -80.51160346970849
+               },
+               "southwest" : {
+                  "lat" : 43.44012756970849,
+                  "lng" : -80.5143014302915
+               }
+            }
+         },
+         "place_id" : "ChIJRQ-PWU70K4gR2TsQiSPgTFw",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

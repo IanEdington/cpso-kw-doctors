@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Andrew Street",
+               "short_name" : "Andrew St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "KW Hospital",
+               "short_name" : "KW Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 5R2",
+               "short_name" : "N2H 5R2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "16 Andrew St, Kitchener, ON N2H 5R2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4562637,
+                  "lng" : -80.50549199999999
+               },
+               "southwest" : {
+                  "lat" : 43.4559179,
+                  "lng" : -80.50586899999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4560971,
+               "lng" : -80.50568269999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4574397802915,
+                  "lng" : -80.50433151970849
+               },
+               "southwest" : {
+                  "lat" : 43.4547418197085,
+                  "lng" : -80.50702948029149
+               }
+            }
+         },
+         "place_id" : "ChIJjSTQ2Wb0K4gRJwSy93tUKqA",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

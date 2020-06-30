@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suite 550",
+               "short_name" : "Suite 550",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "2525",
+               "short_name" : "2525",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old Bronte Road",
+               "short_name" : "Old Bronte Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Oak Trails",
+               "short_name" : "West Oak Trails",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Oakville",
+               "short_name" : "Oakville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Halton",
+               "short_name" : "Regional Municipality of Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L6M 4J2",
+               "short_name" : "L6M 4J2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2525 Old Bronte Rd Suite 550, Oakville, ON L6M 4J2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4356583,
+               "lng" : -79.7755914
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4370072802915,
+                  "lng" : -79.7742424197085
+               },
+               "southwest" : {
+                  "lat" : 43.4343093197085,
+                  "lng" : -79.77694038029151
+               }
+            }
+         },
+         "place_id" : "ChIJaU996MRcK4gRbOw2LFn95Zw",
+         "plus_code" : {
+            "compound_code" : "C6PF+7Q Oakville, ON, Canada",
+            "global_code" : "87M2C6PF+7Q"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "301",
+               "short_name" : "301",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pine Street",
+               "short_name" : "Pine St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "KW Hospital",
+               "short_name" : "KW Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 3R1",
+               "short_name" : "N2H 3R1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "301-18 Pine St, Kitchener, ON N2H 3R1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.45802,
+                  "lng" : -80.5112128
+               },
+               "southwest" : {
+                  "lat" : 43.45769490000001,
+                  "lng" : -80.51163319999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4578438,
+               "lng" : -80.5114147
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4592064302915,
+                  "lng" : -80.51007401970848
+               },
+               "southwest" : {
+                  "lat" : 43.4565084697085,
+                  "lng" : -80.5127719802915
+               }
+            }
+         },
+         "place_id" : "Ei0zMDEtMTggUGluZSBTdCwgS2l0Y2hlbmVyLCBPTiBOMkggM1IxLCBDYW5hZGEiHxodChYKFAoSCRHmcLxo9CuIERA3wPFn-7SREgMzMDE",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "700",
+               "short_name" : "700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Coronation Boulevard",
+               "short_name" : "Coronation Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1R 3G2",
+               "short_name" : "N1R 3G2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "700 Coronation Blvd, Cambridge, ON N1R 3G2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3784152,
+               "lng" : -80.32808469999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3797641802915,
+                  "lng" : -80.32673571970849
+               },
+               "southwest" : {
+                  "lat" : 43.3770662197085,
+                  "lng" : -80.3294336802915
+               }
+            }
+         },
+         "place_id" : "ChIJ35LlDSl2LIgRaaWOqWFO7-0",
+         "plus_code" : {
+            "compound_code" : "9MHC+9Q Cambridge, ON, Canada",
+            "global_code" : "86MX9MHC+9Q"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unit 7",
+               "short_name" : "Unit 7",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "421",
+               "short_name" : "421",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Greenbrook Drive",
+               "short_name" : "Greenbrook Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Forest Hill",
+               "short_name" : "Forest Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 4K1",
+               "short_name" : "N2M 4K1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "421 Greenbrook Dr Unit 7, Kitchener, ON N2M 4K1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4250174,
+               "lng" : -80.50977379999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4263663802915,
+                  "lng" : -80.50842481970849
+               },
+               "southwest" : {
+                  "lat" : 43.42366841970851,
+                  "lng" : -80.5111227802915
+               }
+            }
+         },
+         "place_id" : "ChIJBdsLMMT1K4gR7SpDGxzs5yo",
+         "plus_code" : {
+            "compound_code" : "CFGR+23 Kitchener, ON, Canada",
+            "global_code" : "86MXCFGR+23"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

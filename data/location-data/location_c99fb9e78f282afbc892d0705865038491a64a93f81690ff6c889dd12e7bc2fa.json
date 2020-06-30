@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "564 Belmont Ave West Unit 102B Kitchener, ON N2M 5N6",
+               "short_name" : "564 Belmont Ave West Unit 102B Kitchener, ON N2M 5N6",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cherry Hill",
+               "short_name" : "Cherry Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 5N6",
+               "short_name" : "N2M 5N6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "564 Belmont Ave West Unit 102B Kitchener, ON N2M 5N6, Kitchener, ON N2M 5N6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4502301,
+               "lng" : -80.51544299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45157908029149,
+                  "lng" : -80.51409401970848
+               },
+               "southwest" : {
+                  "lat" : 43.4488811197085,
+                  "lng" : -80.51679198029149
+               }
+            }
+         },
+         "place_id" : "ChIJtTVA5UP0K4gRwOqEBaVGBDY",
+         "plus_code" : {
+            "compound_code" : "FF2M+3R Kitchener, ON, Canada",
+            "global_code" : "86MXFF2M+3R"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

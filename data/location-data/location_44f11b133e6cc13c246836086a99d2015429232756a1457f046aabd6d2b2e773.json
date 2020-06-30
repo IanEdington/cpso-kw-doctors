@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tremaine Drive",
+               "short_name" : "Tremaine Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grand River South",
+               "short_name" : "Grand River South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2A 4L8",
+               "short_name" : "N2A 4L8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "43 Tremaine Dr, Kitchener, ON N2A 4L8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.442844,
+               "lng" : -80.4122273
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4441929802915,
+                  "lng" : -80.41087831970849
+               },
+               "southwest" : {
+                  "lat" : 43.4414950197085,
+                  "lng" : -80.41357628029149
+               }
+            }
+         },
+         "place_id" : "ChIJe1ALWwqLK4gRX5OtgekUY2c",
+         "plus_code" : {
+            "compound_code" : "CHVQ+44 Kitchener, ON, Canada",
+            "global_code" : "86MXCHVQ+44"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

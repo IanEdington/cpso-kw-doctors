@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10b",
+               "short_name" : "10b",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Street South",
+               "short_name" : "Victoria St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "City Commercial Core",
+               "short_name" : "City Commercial Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1C5",
+               "short_name" : "N2G 1C5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10b Victoria St S, Kitchener, ON N2G 1C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4521393,
+               "lng" : -80.4989575
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4534882802915,
+                  "lng" : -80.49760851970849
+               },
+               "southwest" : {
+                  "lat" : 43.4507903197085,
+                  "lng" : -80.50030648029151
+               }
+            }
+         },
+         "place_id" : "ChIJLeCAWvX0K4gR5jtsS_Y8NYk",
+         "plus_code" : {
+            "compound_code" : "FG22+VC Kitchener, ON, Canada",
+            "global_code" : "86MXFG22+VC"
+         },
+         "types" : [ "establishment", "health", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

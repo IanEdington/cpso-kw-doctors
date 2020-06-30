@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stratford Municipal Airport",
+               "short_name" : "Stratford Municipal Airport",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "3022",
+               "short_name" : "3022",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "40 Line",
+               "short_name" : "40 Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stratford",
+               "short_name" : "Stratford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perth East",
+               "short_name" : "Perth East",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Perth County",
+               "short_name" : "Perth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N5A 6S2",
+               "short_name" : "N5A 6S2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stratford Municipal Airport, 3022 40 Line, Stratford, ON N5A 6S2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4076224,
+               "lng" : -80.93925569999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4089713802915,
+                  "lng" : -80.93790671970849
+               },
+               "southwest" : {
+                  "lat" : 43.4062734197085,
+                  "lng" : -80.9406046802915
+               }
+            }
+         },
+         "place_id" : "ChIJe2pmoNysLogRETDJugHJjJE",
+         "plus_code" : {
+            "compound_code" : "C356+27 Stratford, ON, Canada",
+            "global_code" : "86MXC356+27"
+         },
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-200",
+               "short_name" : "2-200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lorraine Avenue",
+               "short_name" : "Lorraine Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Heritage Park",
+               "short_name" : "Heritage Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2B 3R3",
+               "short_name" : "N2B 3R3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2-200 Lorraine Ave, Kitchener, ON N2B 3R3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.46071509999999,
+               "lng" : -80.4412313
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.46206408029149,
+                  "lng" : -80.43988231970849
+               },
+               "southwest" : {
+                  "lat" : 43.4593661197085,
+                  "lng" : -80.44258028029151
+               }
+            }
+         },
+         "place_id" : "ChIJ33vh9VqLK4gRxP5tY721mxk",
+         "plus_code" : {
+            "compound_code" : "FH65+7G Kitchener, ON, Canada",
+            "global_code" : "86MXFH65+7G"
+         },
+         "types" : [ "establishment", "health", "pharmacy", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

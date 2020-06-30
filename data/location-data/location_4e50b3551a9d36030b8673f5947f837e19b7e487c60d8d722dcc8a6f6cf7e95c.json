@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3570",
+               "short_name" : "3570",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street East",
+               "short_name" : "King St E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centreville Chicopee",
+               "short_name" : "Centreville Chicopee",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2A 2W1",
+               "short_name" : "N2A 2W1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3570 King St E, Kitchener, ON N2A 2W1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.425519,
+               "lng" : -80.41227839999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4268679802915,
+                  "lng" : -80.41092941970848
+               },
+               "southwest" : {
+                  "lat" : 43.4241700197085,
+                  "lng" : -80.4136273802915
+               }
+            }
+         },
+         "place_id" : "ChIJf6gZ0_-KK4gRvgNBmoLrHbA",
+         "plus_code" : {
+            "compound_code" : "CHGQ+63 Kitchener, ON, Canada",
+            "global_code" : "86MXCHGQ+63"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

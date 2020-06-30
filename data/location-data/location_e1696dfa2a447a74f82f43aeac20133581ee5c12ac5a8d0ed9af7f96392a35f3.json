@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "104B",
+               "short_name" : "104B",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "215",
+               "short_name" : "215",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highland Road West",
+               "short_name" : "Highland Rd W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2M 3C1",
+               "short_name" : "N2M 3C1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104B-215 Highland Rd W, Kitchener, ON N2M 3C1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.44030679999999,
+                  "lng" : -80.50545839999999
+               },
+               "southwest" : {
+                  "lat" : 43.4399488,
+                  "lng" : -80.5063364
+               }
+            },
+            "location" : {
+               "lat" : 43.4401513,
+               "lng" : -80.5059433
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4414767802915,
+                  "lng" : -80.5045484197085
+               },
+               "southwest" : {
+                  "lat" : 43.4387788197085,
+                  "lng" : -80.50724638029151
+               }
+            }
+         },
+         "place_id" : "EjUxMDRCLTIxNSBIaWdobGFuZCBSZCBXLCBLaXRjaGVuZXIsIE9OIE4yTSAzQzEsIENhbmFkYSIgGh4KFgoUChIJ5Sa9RlH0K4gRCOkNeK7RHDESBDEwNEI",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

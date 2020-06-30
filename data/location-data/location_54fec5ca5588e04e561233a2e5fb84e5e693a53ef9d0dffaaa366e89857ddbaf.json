@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Farley Drive",
+               "short_name" : "Farley Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guelph",
+               "short_name" : "Guelph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington County",
+               "short_name" : "Wellington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1L 0B7",
+               "short_name" : "N1L 0B7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "33 Farley Dr #1, Guelph, ON N1L 0B7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5020201,
+               "lng" : -80.187128
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.50336908029151,
+                  "lng" : -80.18577901970851
+               },
+               "southwest" : {
+                  "lat" : 43.50067111970851,
+                  "lng" : -80.18847698029151
+               }
+            }
+         },
+         "place_id" : "ChIJc0Uc95-EK4gR6iv6ZEhRyVE",
+         "plus_code" : {
+            "compound_code" : "GR27+R4 Guelph, ON, Canada",
+            "global_code" : "86MXGR27+R4"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

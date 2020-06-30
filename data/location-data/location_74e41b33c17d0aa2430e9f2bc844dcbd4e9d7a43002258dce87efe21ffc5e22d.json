@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lorraine Avenue",
+               "short_name" : "Lorraine Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Heritage Park",
+               "short_name" : "Heritage Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2B 3R3",
+               "short_name" : "N2B 3R3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8-200 Lorraine Ave, Kitchener, ON N2B 3R3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4610807,
+                  "lng" : -80.4405266
+               },
+               "southwest" : {
+                  "lat" : 43.460646,
+                  "lng" : -80.4415187
+               }
+            },
+            "location" : {
+               "lat" : 43.4608256,
+               "lng" : -80.4410402
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4622123302915,
+                  "lng" : -80.4396736697085
+               },
+               "southwest" : {
+                  "lat" : 43.4595143697085,
+                  "lng" : -80.4423716302915
+               }
+            }
+         },
+         "place_id" : "EjE4LTIwMCBMb3JyYWluZSBBdmUsIEtpdGNoZW5lciwgT04gTjJCIDNSMywgQ2FuYWRhIh0aGwoWChQKEgnHGslMWosriBF6LjwUagniExIBOA",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

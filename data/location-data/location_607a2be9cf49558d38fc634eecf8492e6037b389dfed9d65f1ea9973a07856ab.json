@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "580",
+               "short_name" : "580",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lancaster Street West",
+               "short_name" : "Lancaster St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bridgeport West",
+               "short_name" : "Bridgeport West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2K 1M3",
+               "short_name" : "N2K 1M3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "580 Lancaster St W, Kitchener, ON N2K 1M3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4798759,
+               "lng" : -80.4839898
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.48122488029149,
+                  "lng" : -80.48264081970849
+               },
+               "southwest" : {
+                  "lat" : 43.47852691970849,
+                  "lng" : -80.4853387802915
+               }
+            }
+         },
+         "place_id" : "ChIJrQFE82XzK4gR33oy3bTQ_5A",
+         "plus_code" : {
+            "compound_code" : "FGH8+XC Kitchener, ON, Canada",
+            "global_code" : "86MXFGH8+XC"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

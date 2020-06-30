@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "205",
+               "short_name" : "205",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pandora Crescent",
+               "short_name" : "Pandora Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Auditorium",
+               "short_name" : "Auditorium",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 3E5",
+               "short_name" : "N2H 3E5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "205 Pandora Crescent, Kitchener, ON N2H 3E5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4492365,
+               "lng" : -80.4721364
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45058548029149,
+                  "lng" : -80.47078741970849
+               },
+               "southwest" : {
+                  "lat" : 43.44788751970849,
+                  "lng" : -80.47348538029151
+               }
+            }
+         },
+         "place_id" : "ChIJqaTTyMD0K4gRn24rmVZTL-k",
+         "plus_code" : {
+            "compound_code" : "CGXH+M4 Kitchener, ON, Canada",
+            "global_code" : "86MXCGXH+M4"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

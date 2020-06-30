@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1450",
+               "short_name" : "1450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Block Line Road",
+               "short_name" : "Block Line Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Country Hills East",
+               "short_name" : "Country Hills East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2C 0A5",
+               "short_name" : "N2C 0A5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1450 Block Line Rd, Kitchener, ON N2C 0A5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4191187,
+               "lng" : -80.46930039999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.42046768029149,
+                  "lng" : -80.46795141970848
+               },
+               "southwest" : {
+                  "lat" : 43.4177697197085,
+                  "lng" : -80.47064938029149
+               }
+            }
+         },
+         "place_id" : "ChIJD1mgpTv1K4gRtePyq6NeT_8",
+         "plus_code" : {
+            "compound_code" : "CG9J+J7 Kitchener, ON, Canada",
+            "global_code" : "86MXCG9J+J7"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "118",
+               "short_name" : "118",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Young Street",
+               "short_name" : "Young St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Civic Centre",
+               "short_name" : "Civic Centre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 4Z4",
+               "short_name" : "N2H 4Z4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "118 Young St, Kitchener, ON N2H 4Z4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4542189,
+                  "lng" : -80.4900461
+               },
+               "southwest" : {
+                  "lat" : 43.4540447,
+                  "lng" : -80.49029779999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4541468,
+               "lng" : -80.49015660000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4554807802915,
+                  "lng" : -80.48882296970849
+               },
+               "southwest" : {
+                  "lat" : 43.4527828197085,
+                  "lng" : -80.4915209302915
+               }
+            }
+         },
+         "place_id" : "ChIJY5dSDo30K4gRKuWrsK4Y860",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

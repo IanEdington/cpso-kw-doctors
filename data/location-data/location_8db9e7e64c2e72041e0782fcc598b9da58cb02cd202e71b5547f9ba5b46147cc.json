@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westmount Road North",
+               "short_name" : "Westmount Rd N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 6N9",
+               "short_name" : "N2L 6N9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Westmount Rd N, Waterloo, ON N2L 6N9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.46174800000001,
+               "lng" : -80.53744499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.46309698029151,
+                  "lng" : -80.53609601970848
+               },
+               "southwest" : {
+                  "lat" : 43.46039901970851,
+                  "lng" : -80.5387939802915
+               }
+            }
+         },
+         "place_id" : "ChIJgQhc7hv0K4gR-4w8m7RTg9o",
+         "plus_code" : {
+            "compound_code" : "FF67+M2 Waterloo, ON, Canada",
+            "global_code" : "86MXFF67+M2"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Erb Street East",
+               "short_name" : "Erb St E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2J 1L7",
+               "short_name" : "N2J 1L7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "108-55 Erb St E, Waterloo, ON N2J 1L7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4655791,
+                  "lng" : -80.518244
+               },
+               "southwest" : {
+                  "lat" : 43.4647561,
+                  "lng" : -80.51878219999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4652669,
+               "lng" : -80.5185791
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.46651658029149,
+                  "lng" : -80.5171641197085
+               },
+               "southwest" : {
+                  "lat" : 43.46381861970849,
+                  "lng" : -80.5198620802915
+               }
+            }
+         },
+         "place_id" : "Ei0xMDgtNTUgRXJiIFN0IEUsIFdhdGVybG9vLCBPTiBOMkogMUw3LCBDYW5hZGEiHxodChYKFAoSCemRJWFy9CuIEeF15pBXGvdREgMxMDg",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

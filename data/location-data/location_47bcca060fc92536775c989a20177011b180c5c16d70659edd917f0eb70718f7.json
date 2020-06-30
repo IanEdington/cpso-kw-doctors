@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westheights Drive",
+               "short_name" : "Westheights Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Forest Heights",
+               "short_name" : "Forest Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2N 2A8",
+               "short_name" : "N2N 2A8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201-10 Westheights Dr, Kitchener, ON N2N 2A8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.429493,
+                  "lng" : -80.53077119999999
+               },
+               "southwest" : {
+                  "lat" : 43.4292397,
+                  "lng" : -80.5311387
+               }
+            },
+            "location" : {
+               "lat" : 43.4293991,
+               "lng" : -80.5309525
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4307153302915,
+                  "lng" : -80.52960596970848
+               },
+               "southwest" : {
+                  "lat" : 43.4280173697085,
+                  "lng" : -80.53230393029149
+               }
+            }
+         },
+         "place_id" : "EjQyMDEtMTAgV2VzdGhlaWdodHMgRHIsIEtpdGNoZW5lciwgT04gTjJOIDJBOCwgQ2FuYWRhIh8aHQoWChQKEglBXa1MzvUriBGf4SV4bHzrhRIDMjAx",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

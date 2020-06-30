@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Oak Ridges Medical Centre",
+               "short_name" : "Oak Ridges Medical Centre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "13291",
+               "short_name" : "13291",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yonge Street",
+               "short_name" : "Yonge St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Richmond Hill",
+               "short_name" : "Richmond Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of York",
+               "short_name" : "Regional Municipality of York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L4E 4L6",
+               "short_name" : "L4E 4L6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oak Ridges Medical Centre, 100-13291 Yonge St, Richmond Hill, ON L4E 4L6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9519359,
+                  "lng" : -79.455314
+               },
+               "southwest" : {
+                  "lat" : 43.95152969999999,
+                  "lng" : -79.45593359999999
+               }
+            },
+            "location" : {
+               "lat" : 43.9517893,
+               "lng" : -79.4555338
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.95308178029149,
+                  "lng" : -79.45427481970849
+               },
+               "southwest" : {
+                  "lat" : 43.9503838197085,
+                  "lng" : -79.45697278029151
+               }
+            }
+         },
+         "place_id" : "ElBPYWsgUmlkZ2VzIE1lZGljYWwgQ2VudHJlLCAxMDAtMTMyOTEgWW9uZ2UgU3QsIFJpY2htb25kIEhpbGwsIE9OIEw0RSA0TDYsIENhbmFkYSIfGh0KFgoUChIJUWwdqDPUKogRTOjCwHfZezQSAzEwMA",
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

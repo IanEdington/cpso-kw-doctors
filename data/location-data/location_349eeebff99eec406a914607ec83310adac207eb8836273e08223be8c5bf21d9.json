@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#8",
+               "short_name" : "#8",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "5425",
+               "short_name" : "5425",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Creditview Road",
+               "short_name" : "Creditview Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Credit",
+               "short_name" : "East Credit",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mississauga",
+               "short_name" : "Mississauga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regional Municipality of Peel",
+               "short_name" : "Regional Municipality of Peel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L5V 2P3",
+               "short_name" : "L5V 2P3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5425 Creditview Rd #8, Mississauga, ON L5V 2P3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5870732,
+               "lng" : -79.69567119999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5884221802915,
+                  "lng" : -79.69432221970848
+               },
+               "southwest" : {
+                  "lat" : 43.5857242197085,
+                  "lng" : -79.6970201802915
+               }
+            }
+         },
+         "place_id" : "ChIJ08dluKlBK4gRKreHlgMaI6M",
+         "plus_code" : {
+            "compound_code" : "H8P3+RP Mississauga, ON, Canada",
+            "global_code" : "87M2H8P3+RP"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

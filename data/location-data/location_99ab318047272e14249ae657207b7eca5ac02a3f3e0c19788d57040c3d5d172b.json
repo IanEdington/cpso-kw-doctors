@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brock Road North",
+               "short_name" : "Brock Rd N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Puslinch",
+               "short_name" : "Puslinch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puslinch",
+               "short_name" : "Puslinch",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wellington County",
+               "short_name" : "Wellington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N0B 2J0",
+               "short_name" : "N0B 2J0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28 Brock Rd N, Puslinch, ON N0B 2J0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4763673,
+                  "lng" : -80.15723799999999
+               },
+               "southwest" : {
+                  "lat" : 43.4761629,
+                  "lng" : -80.1575373
+               }
+            },
+            "location" : {
+               "lat" : 43.4762577,
+               "lng" : -80.1573585
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4776140802915,
+                  "lng" : -80.15603866970849
+               },
+               "southwest" : {
+                  "lat" : 43.4749161197085,
+                  "lng" : -80.1587366302915
+               }
+            }
+         },
+         "place_id" : "ChIJO0tXKKSDK4gRoH1gXeqJz4s",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

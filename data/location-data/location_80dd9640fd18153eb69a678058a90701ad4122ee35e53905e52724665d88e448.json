@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "541",
+               "short_name" : "541",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Queen Street South",
+               "short_name" : "Queen St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mill Courtland Woodside Park",
+               "short_name" : "Mill Courtland Woodside Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2G 1W9",
+               "short_name" : "N2G 1W9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "541 Queen St S, Kitchener, ON N2G 1W9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4437822,
+                  "lng" : -80.4949857
+               },
+               "southwest" : {
+                  "lat" : 43.443631,
+                  "lng" : -80.4952047
+               }
+            },
+            "location" : {
+               "lat" : 43.4437048,
+               "lng" : -80.49510789999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.44505558029149,
+                  "lng" : -80.4937462197085
+               },
+               "southwest" : {
+                  "lat" : 43.4423576197085,
+                  "lng" : -80.49644418029152
+               }
+            }
+         },
+         "place_id" : "ChIJ92TOQvf0K4gRq37A5N9mHa8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

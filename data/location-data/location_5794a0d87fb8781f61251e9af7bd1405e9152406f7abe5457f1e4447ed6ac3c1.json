@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Georgian Drive",
+               "short_name" : "Georgian Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barrie",
+               "short_name" : "Barrie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Simcoe County",
+               "short_name" : "Simcoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L4M 6M2",
+               "short_name" : "L4M 6M2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201 Georgian Dr, Barrie, ON L4M 6M2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4153282,
+               "lng" : -79.662459
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4166771802915,
+                  "lng" : -79.66111001970849
+               },
+               "southwest" : {
+                  "lat" : 44.4139792197085,
+                  "lng" : -79.66380798029151
+               }
+            }
+         },
+         "place_id" : "ChIJL0nzu3mjKogR6cQQ-MO7NBI",
+         "plus_code" : {
+            "compound_code" : "C88Q+42 Barrie, ON, Canada",
+            "global_code" : "87P2C88Q+42"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

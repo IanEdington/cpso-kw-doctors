@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "890",
+               "short_name" : "890",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Glasgow Street",
+               "short_name" : "Glasgow St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Highland West",
+               "short_name" : "Highland West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2N 2Y6",
+               "short_name" : "N2N 2Y6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "890 Glasgow St, Kitchener, ON N2N 2Y6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4424145,
+               "lng" : -80.54290809999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4437634802915,
+                  "lng" : -80.5415591197085
+               },
+               "southwest" : {
+                  "lat" : 43.4410655197085,
+                  "lng" : -80.5442570802915
+               }
+            }
+         },
+         "place_id" : "ChIJMRd49yn0K4gRMt4jmDoG-K0",
+         "plus_code" : {
+            "compound_code" : "CFR4+XR Kitchener, ON, Canada",
+            "global_code" : "86MXCFR4+XR"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

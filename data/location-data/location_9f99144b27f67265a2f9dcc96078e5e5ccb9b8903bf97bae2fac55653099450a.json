@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "750",
+               "short_name" : "750",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ottawa Street South",
+               "short_name" : "Ottawa St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alpine",
+               "short_name" : "Alpine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2E 1B6",
+               "short_name" : "N2E 1B6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "750 Ottawa St S, Kitchener, ON N2E 1B6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4244417,
+                  "lng" : -80.486603
+               },
+               "southwest" : {
+                  "lat" : 43.4230509,
+                  "lng" : -80.4883866
+               }
+            },
+            "location" : {
+               "lat" : 43.4237858,
+               "lng" : -80.4873985
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4250952802915,
+                  "lng" : -80.4861458197085
+               },
+               "southwest" : {
+                  "lat" : 43.4223973197085,
+                  "lng" : -80.4888437802915
+               }
+            }
+         },
+         "place_id" : "ChIJ9WiSpRr1K4gRQLJX0QjMxv8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

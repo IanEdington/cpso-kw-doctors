@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "289",
+               "short_name" : "289",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Frederick Street",
+               "short_name" : "Frederick St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Frederick",
+               "short_name" : "Central Frederick",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2H 2N3",
+               "short_name" : "N2H 2N3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "289 Frederick St, Kitchener, ON N2H 2N3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4556501,
+                  "lng" : -80.4777096
+               },
+               "southwest" : {
+                  "lat" : 43.4555027,
+                  "lng" : -80.4779169
+               }
+            },
+            "location" : {
+               "lat" : 43.4555762,
+               "lng" : -80.47782049999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45692538029149,
+                  "lng" : -80.4764642697085
+               },
+               "southwest" : {
+                  "lat" : 43.4542274197085,
+                  "lng" : -80.47916223029151
+               }
+            }
+         },
+         "place_id" : "ChIJF_g2-5X0K4gRzfUmUNE7cx4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
